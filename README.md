@@ -1,16 +1,16 @@
-## Hi there 👋
+Boas vindas ao meu perfil💜
 
-<!--
-**liviabueno123/liviabueno123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e   Livia bueno
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou desenvolvendo na linguagem jovem javascript
+- Ultiizo este espaço para minha organizaçao e compartilhamento dos meus projetos desenvovidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voçe entrar em contato comigo📧
+
+- 00001123612778SP@aluno.educacao.sp.gov.br
+  
+
+
+
+- https://tenor.com/dKKq2u3Y0Eu.gif
